@@ -1,2 +1,3 @@
 # test-for-fun
-test 2
+test 2 
+yes 
